@@ -3,7 +3,8 @@ import { CiBookmark } from "react-icons/ci";
 import { FaBookmark } from "react-icons/fa";
 
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
-  const { title, cover_img, author_img, author_name, hashtag, reading_time, posted_date } = blog;
+  const { id, title, cover_img, author_img, author_name, hashtag, reading_time, posted_date } =
+    blog;
   return (
     <div className="mb-16">
       <img src={cover_img} alt={title} className="rounded-lg w-full" />
@@ -49,7 +50,7 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
       <button
         className="text-blue-600 font-medium text-xl py-2"
         style={{ textDecoration: "underline" }}
-        onClick={() => handleMarkAsRead(reading_time)}
+        onClick={() => handleMarkAsRead(reading_time, id)}
       >
         Mark as read
       </button>
