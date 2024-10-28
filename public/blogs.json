@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover_img": "https://images.unsplash.com/photo-1581091870623-27b6ac64ac9a",
+    "cover_img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
     "title": "Mastering the Art of Entrepreneurship",
     "author_name": "Jane Doe",
     "author_img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover_img": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+    "cover_img": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
     "title": "10 Tips for Sustainable Business Growth",
     "author_name": "John Smith",
     "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover_img": "https://images.unsplash.com/photo-1573497491208-6b1acb260507",
+    "cover_img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
     "title": "Finding Your Niche in a Crowded Market",
     "author_name": "Emily Johnson",
     "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover_img": "https://images.unsplash.com/photo-1517430816045-df4b7de6e86d",
+    "cover_img": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
     "title": "Understanding the Customer Journey in 2024",
     "author_name": "Alex Kim",
     "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "cover_img": "https://images.unsplash.com/photo-1497477200393-3b1e5ee43d3e",
+    "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     "title": "The Future of Digital Transformation",
     "author_name": "Sophia Lee",
     "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
