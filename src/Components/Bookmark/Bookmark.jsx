@@ -3,8 +3,8 @@ import PropTypes from "prop-types";
 const Bookmark = ({ bookmark }) => {
   const { title } = bookmark;
   return (
-    <div>
-      <h1 className="text-3xl">{title}</h1>
+    <div className="p-4 bg-white my-4 rounded-lg">
+      <h1 className="text-xl font-bold">{title}</h1>
     </div>
   );
 };
